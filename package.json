@@ -1,0 +1,26 @@
+{
+  "name": "ideal-happiness10",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest --verbose test/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hazel-jimenez/ideal-happiness10.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hazel-jimenez/ideal-happiness10/issues"
+  },
+  "homepage": "https://github.com/hazel-jimenez/ideal-happiness10#readme",
+  "dependencies": {
+    "inquirer": "^8.2.1",
+    "jest": "^27.5.1"
+  }
+}
